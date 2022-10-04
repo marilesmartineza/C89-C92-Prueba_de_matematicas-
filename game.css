@@ -1,0 +1,66 @@
+body
+{
+	background: rgb(84, 141, 147);
+	font-family: 'Shadows Into Light';	
+}
+
+.login_div1 , .login_div2
+{
+	background: white;
+	padding: 10px;
+	float: none;
+	border-radius: 15px;
+	font-family: 'Shadows Into Light';
+}
+ 
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	font-family: 'Shadows Into Light';	
+}
+
+#number1
+{
+	font-family: 'Shadows Into Light';	
+	width: 60%;
+}
+
+#number2
+{
+	font-family: 'Shadows Into Light';	
+	width: 60%;
+}
+
+#word_display
+{
+	letter-spacing: 5px;
+}
+
+#output
+{
+	font-family: 'Shadows Into Light';	
+	background: white;
+	border-radius: 10px;
+	border-top: 10px solid #AA4465;
+	padding: 10px;
+	float: none;
+	text-align: left;
+	
+}
+
+h1
+{
+	font-family: 'DynaPuff';
+	color: white;
+}
+
+#subtitle
+{
+	font-family: 'Shadows Into Light';	
+}
+
+#texto
+{
+	font-family: 'Shadows Into Light';	
+}
